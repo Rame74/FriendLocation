@@ -1,2 +1,2 @@
 # FriendLocation
-Angular + .Net Core API + XUnit Test + DB Project Exercise
+Windows Form + .Net Core API + XUnit Test + DB Project Exercise
